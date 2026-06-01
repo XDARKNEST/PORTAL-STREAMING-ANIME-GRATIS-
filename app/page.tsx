@@ -16,7 +16,7 @@ export default function Page() {
           <PortalCard
             indicator="green"
             title="Server Utama"
-            description="pilih server alternatif di bawah ini jika domain utama mati • TANPA LOGIN"
+            description="pilih server alternatif di bawah ini jika domain utama mati RESO 360P ONLY • TANPA LOGIN"
             buttonLabel="Buka Server Utama"
             href={LINKS.MAIN_SERVER}
             delay={0.1}
